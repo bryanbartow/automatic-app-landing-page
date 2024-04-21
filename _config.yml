@@ -7,7 +7,7 @@ ios_app_country                           : us                                  
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : https://bryanbartow.com                   # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Bryan Bartow                                
-your_link                                 : https://emilbaehr.com                     
+your_link                                 : https://bryanbartow.com                     
 your_city                                 : Austin                                
 email_address                             : bryan@obmonitor.com
 facebook_username                         :                                           
@@ -36,12 +36,12 @@ mastodon_link                             : https://mastodon.social/@bryanbartow
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Your Personalized Feed
+    description                           : We only show you the threads you care about.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Never Miss a Thing
+    description                           : Customizable push notifications ensure you never miss out on breaking news.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Video Support
