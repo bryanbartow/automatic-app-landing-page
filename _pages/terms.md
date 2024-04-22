@@ -1,3 +1,9 @@
+---
+layout: page
+title: Terms of Service
+include_in_header: false
+---
+
 **Last Updated: April 24, 2024**
 
 These terms of service (“Terms”) apply to your access and use of OB Monitor (the “Service”). Please read them carefully.
