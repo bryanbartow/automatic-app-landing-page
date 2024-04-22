@@ -20,6 +20,7 @@ When you access or use our services, we automatically collect information about 
 For more details about how we collect information, including details about cookies and how to disable them, please see “Your Information Choices” below.
 ### Information We Collect From Other Sources
 To provide you with access to the Service, or to provide you with better service in general, we may combine information obtained from other sources (for example, a third-party service whose application you have authorized or used to sign in) and combine that with information we collect through our services.
+
 ## Use of Information
 We use information about you for various purposes, including to:
 - Provide, maintain and improve our services;
@@ -30,6 +31,7 @@ We use information about you for various purposes, including to:
 - Monitor and analyze trends, usage and activities in connection with our services; and
 - Personalize and improve our services.
 By accessing and using our services, you consent to the processing and transfer of your information in and to the United States and other countries.
+
 ## Sharing of Information
 We may share personal information about you as follows:
 - If we believe disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request;
@@ -37,10 +39,13 @@ We may share personal information about you as follows:
 - In connection with any merger, sale of Bryan Bartow assets, financing or acquisition of all or a portion of our business to another company; and
 - If we notify you through our services (or in our privacy policy) that the information you provide will be shared in a particular manner and you provide such information.
 We may also share aggregated or anonymized information that does not directly identify you.
+
 ## Third Party Analytics
 We may allow third parties to provide analytics services. These third parties may use cookies, web beacons and other technologies to collect information about your use of the services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and third parties to, among other things, analyze and track data, determine the popularity of certain content and other websites and better understand your online activity. Our privacy policy does not apply to, and we are not responsible for, third party cookies, web beacons or other tracking technologies and we encourage you to check the privacy policies of these third parties to learn more about their privacy practices.
+
 ## Security
 We take reasonable measures to help protect personal information from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+
 ## Your Information Choices
 ### Your California Privacy Rights
 California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at support@obmonitor.com. However, please note that under the law, Services such as ours that permit California residents to opt in to, or opt out of, this type of sharing are not required to provide such information upon receiving a request, but rather may respond by notifying the user of his or her right to prevent the disclosure. To opt out of having information about you shared with third parties for direct marketing purposes, please contact us at support@obmonitor.com.
