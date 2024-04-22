@@ -45,8 +45,8 @@ features                                  :
     fontawesome_icon_name                 : bell
 
   - title                                 : Keywords
-    description                           : Use keywords to get notified anyone posts about your favorite subject.
-    fontawesome_icon_name                 : magnifying-glass
+    description                           : Use keywords to get notified when anyone posts about your favorite subject.
+    fontawesome_icon_name                 : tag
 
   - title                                 : Favorite Users
     description                           : Follow your favorite users and get notified any time they post.
