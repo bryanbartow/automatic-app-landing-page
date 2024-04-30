@@ -8,7 +8,7 @@ include_in_header: false
 
 These terms of service (“Terms”) apply to your access and use of OB Monitor (the “Service”). Please read them carefully.
 ### Accepting these Terms
-If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don’t agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know by emailing [support@obmonitor.com](mailto://bryan@obmonitor.com).
+If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don’t agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know by emailing [bbartow@icloud.com](mailto://bbartow@icloud.com).
 ### Changes to these Terms
 We reserve the right to modify these Terms at any time. For instance, we may need to change these Terms if we come out with a new feature or for some other reason.
 Whenever we make changes to these Terms, the changes are effective immediately after we post such revised Terms (indicated by revising the date at the top of these Terms) or upon your acceptance if we provide a mechanism for your immediate acceptance of the revised Terms (such as a click-through confirmation or acceptance button). It is your responsibility to check OB Monitor for changes to these Terms.
@@ -42,4 +42,4 @@ These Terms constitute the entire agreement between you and Bryan Bartow regardi
 ### Feedback
 Please let us know what you think of the Service, these Terms, and, in general, OB Monitor. When you provide us with any feedback, comments or suggestions about the Service, these Terms and, in general, OB Monitor, you irrevocably assign to us all of your right, title and interest in and to your feedback, comments and suggestions.
 ### Questions & Contact Information
-Questions or comments about the Service may be directed to us at the email address [support@obmonitor.com](mailto://bryan@obmonitor.com).
+Questions or comments about the Service may be directed to us at the email address [bbartow@icloud.com](mailto://bbartow@icloud.com).
